@@ -3,7 +3,7 @@
 ### [19h30 29-12-2021 Indonesia vs Thái Lan (Thỏ + Liu)](https://football-match.github.io/embed/61cc494d3eac29001c9cc28c/)
 ### [22h00 28-12-2021 Southampton vs Tottenham (BLV Cáp Tần)](https://football-match.github.io/embed/61cb19fcf531b4001dd8356d/)
 ### [22:00 26-12-2021 Norwich vs Arsenal (BLV nào đó)](https://football-match.github.io/embed/61c87177f05537001c6d0705/)
-### [22:00 26-12-2021 Tottenham vs Crystal Palace (Âu men)](https://football-match.github.io/embed/gapo.vn/embed.php/61c8776f352630001c655fd9/)
+### [22:00 26-12-2021 Tottenham vs Crystal Palace (Âu men)](https://football-match.github.io/embed/61c8776f352630001c655fd9/)
 ### [19:30 26-12-2021 Thái Lan vs Việt Nam (Liu + Thỏ)](https://football-match.github.io/embed/gapo.vn/embed.php/61c85950290a22001cf2ff2f/)
 ### [19:30 23-12-2021 Thái Lan vs Việt Nam](https://football-match.github.io/embed/gapo.vn/embed.php/61c45b00b471f7001c6a1bb3/)
 ### [03:30 23-12-2021 Athletic Club vs Real Madrid](https://football-match.github.io/embed/61c37ff78e0acb001c8ef093/)
