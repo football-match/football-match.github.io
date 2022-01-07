@@ -32,5 +32,6 @@
 ### [21:00 11-09-2021 Man United - Newcastle (Bát Man)](https://football-match.github.io/embed/613cb06092e1a3001ceb01ec/)
 ### [18:30 11-09-2021 Crystal Palace - Tottenham (Thỏ + Liu)](https://football-match.github.io/embed/613c8b2448ecc8001d5a4294/)
 ### [19:00 07-09-2021 Việt Nam - Úc (Cáp + Thỏ)](https://football-match.github.io/embed/gapo.vn/embed.php/613750e61553cb001c0472ec/)
+### [15:00 03-08-2021 Brazil U23 - Mexico U23 (Cáp + Thỏ)](https://football-match.github.io/embed/BrazilU23_MexicoU23_03-08-2021/)
 ### [00:45 16-11-2020 Bỉ vs Anh](https://football-match.github.io/embed/5fb1802ed49cf7001e181bdd/)
 ### [02:45 15-11-2020 Bồ Đào Nha - Pháp](https://football-match.github.io/embed/5fb02d39837240001c083986/)
