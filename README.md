@@ -3,6 +3,7 @@
 ### [03:00 08-01-2022 Swindon Town vs Manchester City (FPT Play)](https://football-match.github.io/embed/SwindonTown_ManchesterCity_08-01-2022/)
 ### [20:30 06-01-2022 Lazio vs Empoli (Người Cồn)](https://football-match.github.io/embed/Lazio_Empoli_06-01-2022/)
 ### [00:30 04-01-2022 Manchester United vs Wolverhampton (BLV Người Bát + Người Thỏ)](https://football-match.github.io/embed/ManchesterUnited_Wolverhampton_04-01-2022/)
+### [03:00 03-01-2022 Mallorca vs Barcelona (Free Sport Player)](https://football-match.github.io/embed/Mallorca_Barcelona_03-01-2022/)
 ### [23:30 02-01-2022 Chelsea vs Liverpool (BLV Người Thỏ + Người Mới)](https://football-match.github.io/embed/Chelsea_Liverpool_02-01-2022/)
 ### [22:15 02-01-2022 Atletico Madrid - Rayo Vallecano (Old Men)](https://football-match.github.io/embed/AtleticoMadrid_RayoVallecano_02-01-2022/)
 ### [21:00 02-01-2022 Leeds - Burnley](https://football-match.github.io/embed/Leeds_Burnley_02-01-2022/)
