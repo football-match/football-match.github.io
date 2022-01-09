@@ -1,5 +1,6 @@
 # football-match.github.io
 
+### [22:00 08-01-2022 West Brom vs Brighton (FPT Play)](https://football-match.github.io/embed/WestBrom_Brighton_08-01-2022/)
 ### [22:00 08-01-2022 Wigan Athletic vs Blackburn Rovers (FPT Play)](https://football-match.github.io/embed/WiganAthletic_BlackburnRovers_08-01-2022/)
 ### [22:00 08-01-2022 Newcastle United vs Cambridge United (FPT Play)](https://football-match.github.io/embed/NewcastleUnited_CambridgeUnited_08-01-2022/)
 ### [19:45 08-01-2022 Millwall vs Crystal Palace (FPT Play)](https://football-match.github.io/embed/Millwall_CrystalPalace_08-01-2022/)
